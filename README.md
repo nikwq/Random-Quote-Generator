@@ -24,7 +24,7 @@ Tkinter (встроен в Python)
 ## КАК ИСПОЛЬЗОВАТЬ
 
 1. ЗАПУСК:
-   python quote_generator.py
+   Random Quote Generator.py
 
 2. ПОЛУЧИТЬ ЦИТАТУ:
    Нажмите кнопку "Сгенерировать"
